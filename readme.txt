@@ -4,4 +4,3 @@ READ ME:
 3. Tests
 4. Run
 5. Test again
-6. magkamali ulit tayo
